@@ -3,6 +3,7 @@ package org.jfree.data.test;
 import static org.junit.Assert.*; import org.jfree.data.Range; import org.junit.*;
 
 public class RangeTest {
+    //written by Maheen and Jason
     private Range exampleRange1;
     @BeforeClass public static void setUpBeforeClass() throws Exception {
     }
